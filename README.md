@@ -1,7 +1,10 @@
-<h2>Oii! Eu sou Daniel Lima<h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" whidth="40" height="40"   />
+<h2> O que eu estou aprendendo:</h2>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" whidth="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" whidth="40" height="40"/>
+     
+            
+          
 <div>
 <a href="https://github.com/danielLima27">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielLima27&layout=compact&langs_count=7&theme=dracula"/>
@@ -10,9 +13,7 @@
 
 
 
-
-
-##Contatos
+<h3>Contatos:</h3>
 
 <div>
 <a href="https://www.linkedin.com/in/daniel-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
